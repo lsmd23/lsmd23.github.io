@@ -9,10 +9,10 @@ export const profileConfig: ProfileConfig = {
 	avatar: "https://github.com/lsmd23.png",
 
 	// 名字
-	name: "lsmd23",
+	name: "Sunmuduo Li",
 
 	// 个人签名
-	bio: "记录学习、项目与思考。",
+	bio: "清华大学学生，在 GitHub 上学习、构建并尝试为开源社区贡献。",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons

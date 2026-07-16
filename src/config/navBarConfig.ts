@@ -33,6 +33,12 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		],
 	});
 
+	links.push({
+		name: "项目",
+		url: "/posts/projects/",
+		icon: "material-symbols:work-outline",
+	});
+
 	links.push(LinkPresets.About);
 
 	links.push({

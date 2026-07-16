@@ -6,20 +6,22 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "lsmd23",
+	title: "Sunmuduo Li",
 
 	// 站点副标题
-	subtitle: "个人主页",
+	subtitle: "Learning, Building, Contributing",
 
 	// 站点 URL
 	site_url: "https://lsmd23.github.io",
 
 	// 站点描述
-	description: "lsmd23 的个人主页，记录学习、项目与技术实践。",
+	description: "Sunmuduo Li（lsmd23）的个人主页，记录学习、项目与开源实践。",
 
 	// 站点关键词
 	keywords: [
 		"lsmd23",
+		"Sunmuduo Li",
+		"Tsinghua University",
 		"个人主页",
 		"Astro",
 		"博客",
@@ -75,7 +77,7 @@ export const siteConfig: SiteConfig = {
 			value: "material-symbols:home-pin-outline",
 		},
 		// 导航栏标题
-		title: "lsmd23",
+		title: "Sunmuduo Li",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
