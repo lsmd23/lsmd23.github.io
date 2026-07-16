@@ -18,14 +18,7 @@ export const siteConfig: SiteConfig = {
 	description: "lsmd23 的个人主页，内容正在准备中。",
 
 	// 站点关键词
-	keywords: [
-		"lsmd23",
-		"个人主页",
-		"Astro",
-		"博客",
-		"项目",
-		"技术",
-	],
+	keywords: ["lsmd23", "个人主页", "Astro", "博客", "项目", "技术"],
 
 	// 主题色
 	themeColor: {
